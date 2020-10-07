@@ -1,5 +1,6 @@
 def hello_world():
     a="Hello World!"
-    return a
+    b=str(a)
+    return b
 print(hello_world())
     # return Hello World! as string
